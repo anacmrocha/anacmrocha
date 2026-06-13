@@ -24,4 +24,4 @@
 </div>
 
 #
-[Data-Science-Portfolio]([https://github.com/seu-usuario/Data-Science-Portfolio](https://github.com/anacmrocha/Data-Science-Portfolio#data-science-portfolio))
+[Data-Science-Portfolio](https://github.com/anacmrocha/Data-Science-Portfolio)
