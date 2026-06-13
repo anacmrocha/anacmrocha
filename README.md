@@ -11,7 +11,7 @@
 - ⚡ Curiosidade: ...
 
 #
-## [Data-Science-Portfolio](https://github.com/anacmrocha/Data-Science-Portfolio) 🎲
+## [Portfolio-Ciencia-de-Dados](https://github.com/anacmrocha/Portfolio-Ciencia-de-Dados) 🎲
 #
 - Bla
 - Bla
